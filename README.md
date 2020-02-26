@@ -1,5 +1,9 @@
 # InkscapeCircuitSymbol
  Circuit symbols for inkscape
+ 
+## Example
+
+![opamp](https://user-images.githubusercontent.com/37934321/75359271-8634e000-58f7-11ea-9ee9-f799a6786db7.png "opamp")
 
 ## Requirement
 

@@ -1,5 +1,5 @@
-# InkscapeCircuitSymbol
- Circuit symbols for inkscape
+# InkscapeCircuitSymbols
+ Circuit symbols for drawing schematics and block diagrams with Inkscape
  
 ## Example
 

@@ -24,9 +24,9 @@
 
 ## Contribution
 
-If you create a new symbol or fix an error, we look forward to your pull request.  
-Usually you need not open an issue when sending a pull request.  
-If you have any questions about fixes or improvements, please open an issue.
+We look forward to your pull request!  
+Usually you need not open an issue.  
+You can open an issue if you have any questions about fixes or improvements.
 
 ## Author
 

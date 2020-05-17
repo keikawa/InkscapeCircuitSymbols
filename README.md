@@ -18,7 +18,7 @@
 ## Recommended settings
 
 - File -> Document Properties -> Grid -> Spacing X = 1.0 px
-- File -> Document Properties -> Grid -> Spacing X = 1.0 px
+- File -> Document Properties -> Grid -> Spacing Y = 1.0 px
 - File -> Document Properties -> Grid -> Frequency of the major lines = 5 px
 - File -> Document Properties -> Snap -> Snap to grids = Always snap
 

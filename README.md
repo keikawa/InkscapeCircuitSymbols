@@ -25,8 +25,7 @@
 ## Contribution
 
 We look forward to your pull request!  
-Usually you need not open an issue.  
-You can open an issue if you have any questions about fixes or improvements.
+Should you have any questions about fixes or improvements, please feel free to open an issue.
 
 ## Author
 

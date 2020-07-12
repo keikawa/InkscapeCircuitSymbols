@@ -18,15 +18,14 @@
 ## Recommended settings
 
 - File -> Document Properties -> Grid -> Spacing X = 1.0 px
-- File -> Document Properties -> Grid -> Spacing X = 1.0 px
+- File -> Document Properties -> Grid -> Spacing Y = 1.0 px
 - File -> Document Properties -> Grid -> Frequency of the major lines = 5 px
 - File -> Document Properties -> Snap -> Snap to grids = Always snap
 
 ## Contribution
 
 We look forward to your pull request!  
-Usually you need not open an issue.  
-You can open an issue if you have any questions about fixes or improvements.
+Should you have any questions about fixes or improvements, please feel free to open an issue.
 
 ## Author
 

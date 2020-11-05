@@ -7,7 +7,7 @@
 
 ## Requirement
 
-- Inkscape 0.92
+- Inkscape
 
 ## Usage
 

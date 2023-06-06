@@ -27,10 +27,6 @@
 We look forward to your pull request!  
 Should you have any questions about fixes or improvements, please feel free to open an issue.
 
-## Author
-
-Keisuke Kawahara  
-
 ## Licence
 
 MIT Licence

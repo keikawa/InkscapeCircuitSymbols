@@ -1,6 +1,8 @@
 # InkscapeCircuitSymbols
  Circuit symbols for drawing schematics and block diagrams with Inkscape
  
+Other versions: [Affinity Designer](https://github.com/keikawa/affinity-circuit-symbols-asset) · [Adobe Illustrator](https://github.com/keikawa/illustrator-circuit-symbols)
+
 ## Example
 
 ![opamp](https://user-images.githubusercontent.com/37934321/75359271-8634e000-58f7-11ea-9ee9-f799a6786db7.png "opamp")
